@@ -1,5 +1,5 @@
 {
-  "name": "vocs",
+  "name": "vocs-search-fix",
   "description": "React Documentation Generator, powered by Vite.",
   "version": "1.0.0-alpha.41",
   "type": "module",
@@ -89,7 +89,7 @@
   },
   "license": "MIT",
   "homepage": "https://vocs.dev",
-  "repository": "wevm/vocs",
+  "repository": "kvmanas/vocs",
   "authors": [
     "awkweb.eth",
     "jxom.eth"
