@@ -1,7 +1,7 @@
 {
   "name": "vocs-search-fix",
   "description": "React Documentation Generator, powered by Vite.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "bin": {
     "vocs": "./_lib/cli/index.js"
@@ -89,7 +89,10 @@
   },
   "license": "MIT",
   "homepage": "https://vocs.dev",
-  "repository": "https://github.com/kvmanas/vocs/tree/main/src",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvmanas/vocs.git"
+  },
   "authors": [
     "awkweb.eth",
     "jxom.eth"
